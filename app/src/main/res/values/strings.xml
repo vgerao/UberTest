@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UberTest</string>
+    <string name="hint">Enter search name</string>
+    <string name="search">Search</string>
+    <string name="http_str">http://</string>
+    <string name="domain_str">.static.flickr.com/</string>
+</resources>
